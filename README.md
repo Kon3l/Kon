@@ -17,3 +17,4 @@
       <img height=40 src="https://github.com/user-attachments/assets/687e586c-ced1-488a-8088-e1f036f6e57c">
     </p>
        
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31umivrnaxahj6cwse3vgvyyx5uy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
