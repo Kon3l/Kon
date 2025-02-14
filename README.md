@@ -16,7 +16,4 @@
 <p align="center">
       <img height=40 src="https://github.com/user-attachments/assets/687e586c-ced1-488a-8088-e1f036f6e57c">
     </p>
-
-
-[blahblahblah](#https://open.spotify.com/track/7y2PqME5aLhhezXtpmOLTf?si=0fae28ba300a4bbe)
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+       
