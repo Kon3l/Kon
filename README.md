@@ -17,4 +17,4 @@
       <img height=40 src="https://github.com/user-attachments/assets/687e586c-ced1-488a-8088-e1f036f6e57c">
     </p>
        
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&cover_image=true&theme=novatorem&show_offline=true&background_color=ca362c&interchange=false&bar_color=ca362c&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=joji.99&redirect=true)</details>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31umivrnaxahj6cwse3vgvyyx5uy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
