@@ -18,4 +18,5 @@
     </p>
 
 
-[test](#https://open.spotify.com/track/7y2PqME5aLhhezXtpmOLTf?si=0fae28ba300a4bbe)
+[blahblahblah](#https://open.spotify.com/track/7y2PqME5aLhhezXtpmOLTf?si=0fae28ba300a4bbe)
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
